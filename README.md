@@ -37,7 +37,7 @@ V0.305  This is a version intended toward incorporating the function in Kicad V6
 Note: there may be other bugs!
 
 I have stress tested with 
-https://github.com/OLIMEX/DIY-LAPTOP/tree/master/HARDWARE/A64-TERES/TERES-PCB1-A64-MAIN_Rev_C
+https://github.com/OLIMEX/DIY-LAPTOP/tree/master/HARDWARE/A64-TERES/TERES-PCB1-A64-MAIN/Rev.C
 which is the most complex KiCad project I have come across.
 
 The Rev C files themselves have issues:
