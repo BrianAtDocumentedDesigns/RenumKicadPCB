@@ -1,0 +1,3 @@
+V0.353  This fixes two bugs which I am surprised haven't shown up before. One was miscounting the number
+        of unique sheets when a top level sheet duplicated another sheet, another was trying to annotate
+        an un-numbered ref des (i.e. Screw -> Screw1 would result in a damaged schematic.
