@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28729.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Renum0400", "Renum0400.vcxproj", "{5E2E6CA1-0004-43EF-A960-7562315AE002}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "RenumKiCadPCB", "..\RenumKiCadPCB\RenumKiCadPCB.vdproj", "{33623E8F-744E-45B2-9D8E-EF19008916DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		DLL Debug|x86 = DLL Debug|x86
+		DLL Release|x86 = DLL Release|x86
+		Release|x86 = Release|x86
+		Template|x86 = Template|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E2E6CA1-0004-43EF-A960-7562315AE002}.Debug|x86.ActiveCfg = Debug|Win32
+		{5E2E6CA1-0004-43EF-A960-7562315AE002}.Debug|x86.Build.0 = Debug|Win32
+		{5E2E6CA1-0004-43EF-A960-7562315AE002}.DLL Debug|x86.ActiveCfg = DLL Debug|Win32
+		{5E2E6CA1-0004-43EF-A960-7562315AE002}.DLL Debug|x86.Build.0 = DLL Debug|Win32
+		{5E2E6CA1-0004-43EF-A960-7562315AE002}.DLL Release|x86.ActiveCfg = DLL Release|Win32
+		{5E2E6CA1-0004-43EF-A960-7562315AE002}.DLL Release|x86.Build.0 = DLL Release|Win32
+		{5E2E6CA1-0004-43EF-A960-7562315AE002}.Release|x86.ActiveCfg = Release|Win32
+		{5E2E6CA1-0004-43EF-A960-7562315AE002}.Release|x86.Build.0 = Release|Win32
+		{5E2E6CA1-0004-43EF-A960-7562315AE002}.Template|x86.ActiveCfg = Template|Win32
+		{5E2E6CA1-0004-43EF-A960-7562315AE002}.Template|x86.Build.0 = Template|Win32
+		{33623E8F-744E-45B2-9D8E-EF19008916DA}.Debug|x86.ActiveCfg = Debug
+		{33623E8F-744E-45B2-9D8E-EF19008916DA}.DLL Debug|x86.ActiveCfg = Debug
+		{33623E8F-744E-45B2-9D8E-EF19008916DA}.DLL Release|x86.ActiveCfg = Release
+		{33623E8F-744E-45B2-9D8E-EF19008916DA}.Release|x86.ActiveCfg = Release
+		{33623E8F-744E-45B2-9D8E-EF19008916DA}.Release|x86.Build.0 = Release
+		{33623E8F-744E-45B2-9D8E-EF19008916DA}.Template|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EADC1CFB-25B4-41B6-B1B5-41BBE8B9420F}
+	EndGlobalSection
+EndGlobal
